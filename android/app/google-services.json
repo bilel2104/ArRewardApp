@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "922416182780",
+    "project_id": "groupadorewardapp",
+    "storage_bucket": "groupadorewardapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:922416182780:android:e1df597f8f3cc36677ae79",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "922416182780-emgvqqq1csa88d66viq6rghlj0ouo444.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.flutter_application_1",
+            "certificate_hash": "03ed9372434b687c5fc89f4ffe19040688085259"
+          }
+        },
+        {
+          "client_id": "922416182780-6qfjh9lrdbqm6fcrkcsct20cikn1t0j1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBegHftVGUpKq_2-1bnhA5aO2OGaZS80-s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "922416182780-6qfjh9lrdbqm6fcrkcsct20cikn1t0j1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
